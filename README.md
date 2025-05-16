@@ -29,22 +29,8 @@ An eCommerce web application for a women's fashion store, built using **Django**
 
 ## ⚙️ Installation
 
-### 1. Clone the repository
+### 1. Clone the Repository
+
 ```bash
-git clone https://github.com/Zaibonisha/Ecommerce_App
+git clone https://github.com/Zaibonisha/Ecommerce_App.git
 cd Ecommerce_App
-
-#### 2. Run Server
-cd backend
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py createsuperuser
-python manage.py runserver
-
-
-##### 3. Run client 
-cd ../frontend
-npm install
-npm start
