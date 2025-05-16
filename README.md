@@ -34,7 +34,7 @@ An eCommerce web application for a women's fashion store, built using **Django**
 git clone https://github.com/Zaibonisha/Ecommerce_App
 cd Ecommerce_App
 
-### 2. Run Server
+#### 2. Run Server
 cd backend
 python3 -m venv venv
 source venv/bin/activate
@@ -44,7 +44,7 @@ python manage.py createsuperuser
 python manage.py runserver
 
 
-### 3. Run client 
+##### 3. Run client 
 cd ../frontend
 npm install
 npm start
