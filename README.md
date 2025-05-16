@@ -22,10 +22,9 @@ An eCommerce web application for a women's fashion store, built using **Django**
 
 ### Frontend
 - **React**
-- **Redux Toolkit** for state management
 - **React Router** for navigation
 - **Axios** for API communication
-- **Tailwind CSS** or **Bootstrap** for styling
+
 
 ## ⚙️ Installation
 
