@@ -22,7 +22,7 @@ function Navbar({ isAuthenticated, setIsAuthenticated }) {
     textDecoration: 'none',
     marginLeft: '20px',
     fontWeight: '500',
-    fontSize: '16px',
+    fontSize: '25px',
     transition: 'opacity 0.3s',
     cursor: 'pointer',
   };

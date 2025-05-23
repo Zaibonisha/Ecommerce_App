@@ -53,7 +53,7 @@ function Home() {
 
       {/* Category Section */}
       <div>
-        <h2 style={{ marginBottom: '20px', textAlign: 'center' }}>Shop by Category</h2>
+        <h1 style={{ marginBottom: '20px', textAlign: 'center' }}>Shop by Category</h1>
         <div
           style={{
             display: 'flex',
@@ -86,7 +86,7 @@ function Home() {
               style={{ width: '100%', height: '79%', objectFit: 'cover' }}
               />
 
-              <div style={{ padding: '10px 0', fontSize: '16px', fontWeight: '500' }}>
+              <div style={{ padding: '10px 0', fontSize: '25px', fontWeight: '500' }}>
                 {category.name}
               </div>
             </Link>
